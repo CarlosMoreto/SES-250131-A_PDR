@@ -1,0 +1,702 @@
+[
+  {
+    "file": "macro_1302.png",
+    "pixels_corrected": 98,
+    "width": 6918,
+    "height": 5806,
+    "verified": true
+  },
+  {
+    "file": "macro_1303.png",
+    "pixels_corrected": 27,
+    "width": 3897,
+    "height": 4088,
+    "verified": true
+  },
+  {
+    "file": "macro_3101.png",
+    "pixels_corrected": 5,
+    "width": 3941,
+    "height": 4088,
+    "verified": true
+  },
+  {
+    "file": "macro_3102.png",
+    "pixels_corrected": 49,
+    "width": 5363,
+    "height": 4152,
+    "verified": true
+  },
+  {
+    "file": "macro_3103.png",
+    "pixels_corrected": 69,
+    "width": 4034,
+    "height": 3706,
+    "verified": true
+  },
+  {
+    "file": "macro_3104.png",
+    "pixels_corrected": 38,
+    "width": 3608,
+    "height": 4240,
+    "verified": true
+  },
+  {
+    "file": "macro_3107.png",
+    "pixels_corrected": 1326,
+    "width": 8338,
+    "height": 5881,
+    "verified": true
+  },
+  {
+    "file": "macro_3108.png",
+    "pixels_corrected": 78,
+    "width": 6883,
+    "height": 5710,
+    "verified": true
+  },
+  {
+    "file": "macro_3109.png",
+    "pixels_corrected": 51,
+    "width": 2910,
+    "height": 5710,
+    "verified": true
+  },
+  {
+    "file": "macro_3110.png",
+    "pixels_corrected": 105837,
+    "width": 7487,
+    "height": 5717,
+    "verified": true
+  },
+  {
+    "file": "macro_3111.png",
+    "pixels_corrected": 36,
+    "width": 5030,
+    "height": 5792,
+    "verified": true
+  },
+  {
+    "file": "macro_3112.png",
+    "pixels_corrected": 10,
+    "width": 9937,
+    "height": 3232,
+    "verified": true
+  },
+  {
+    "file": "macro_3113.png",
+    "pixels_corrected": 31,
+    "width": 9361,
+    "height": 4996,
+    "verified": true
+  },
+  {
+    "file": "macro_3114.png",
+    "pixels_corrected": 1,
+    "width": 5998,
+    "height": 5236,
+    "verified": true
+  },
+  {
+    "file": "macro_3115.png",
+    "pixels_corrected": 208,
+    "width": 5417,
+    "height": 4078,
+    "verified": true
+  },
+  {
+    "file": "macro_3116.png",
+    "pixels_corrected": 23,
+    "width": 5065,
+    "height": 5737,
+    "verified": true
+  },
+  {
+    "file": "micro_31002.png",
+    "pixels_corrected": 1,
+    "width": 14353,
+    "height": 7990,
+    "verified": true
+  },
+  {
+    "file": "micro_31003.png",
+    "pixels_corrected": 4883,
+    "width": 9225,
+    "height": 8314,
+    "verified": true
+  },
+  {
+    "file": "micro_31004.png",
+    "pixels_corrected": 2,
+    "width": 10608,
+    "height": 8225,
+    "verified": true
+  },
+  {
+    "file": "micro_31006.png",
+    "pixels_corrected": 2123,
+    "width": 9235,
+    "height": 8225,
+    "verified": true
+  },
+  {
+    "file": "micro_31007.png",
+    "pixels_corrected": 5240,
+    "width": 9588,
+    "height": 8020,
+    "verified": true
+  },
+  {
+    "file": "micro_31008.png",
+    "pixels_corrected": 1032,
+    "width": 9804,
+    "height": 8245,
+    "verified": true
+  },
+  {
+    "file": "micro_31009.png",
+    "pixels_corrected": 72590,
+    "width": 9980,
+    "height": 8118,
+    "verified": true
+  },
+  {
+    "file": "micro_31010.png",
+    "pixels_corrected": 7213,
+    "width": 7892,
+    "height": 8225,
+    "verified": true
+  },
+  {
+    "file": "micro_31011.png",
+    "pixels_corrected": 31748,
+    "width": 8373,
+    "height": 8167,
+    "verified": true
+  },
+  {
+    "file": "micro_31012.png",
+    "pixels_corrected": 398,
+    "width": 7108,
+    "height": 8255,
+    "verified": true
+  },
+  {
+    "file": "micro_31013.png",
+    "pixels_corrected": 860,
+    "width": 8990,
+    "height": 8255,
+    "verified": true
+  },
+  {
+    "file": "micro_31015.png",
+    "pixels_corrected": 285,
+    "width": 8157,
+    "height": 8108,
+    "verified": true
+  },
+  {
+    "file": "micro_31016.png",
+    "pixels_corrected": 5486,
+    "width": 5039,
+    "height": 8333,
+    "verified": true
+  },
+  {
+    "file": "micro_31017.png",
+    "pixels_corrected": 15940,
+    "width": 4863,
+    "height": 7126,
+    "verified": true
+  },
+  {
+    "file": "micro_31018.png",
+    "pixels_corrected": 232907,
+    "width": 7608,
+    "height": 7990,
+    "verified": true
+  },
+  {
+    "file": "micro_31019.png",
+    "pixels_corrected": 7159,
+    "width": 8069,
+    "height": 8098,
+    "verified": true
+  },
+  {
+    "file": "micro_31020.png",
+    "pixels_corrected": 949,
+    "width": 6598,
+    "height": 8304,
+    "verified": true
+  },
+  {
+    "file": "micro_31021.png",
+    "pixels_corrected": 16109,
+    "width": 7039,
+    "height": 8216,
+    "verified": true
+  },
+  {
+    "file": "micro_31022.png",
+    "pixels_corrected": 364,
+    "width": 13696,
+    "height": 8206,
+    "verified": true
+  },
+  {
+    "file": "micro_31023.png",
+    "pixels_corrected": 22,
+    "width": 9696,
+    "height": 8275,
+    "verified": true
+  },
+  {
+    "file": "micro_31024.png",
+    "pixels_corrected": 5894,
+    "width": 12765,
+    "height": 8373,
+    "verified": true
+  },
+  {
+    "file": "micro_31025.png",
+    "pixels_corrected": 81982,
+    "width": 8157,
+    "height": 8157,
+    "verified": true
+  },
+  {
+    "file": "micro_31026.png",
+    "pixels_corrected": 5074,
+    "width": 7118,
+    "height": 8206,
+    "verified": true
+  },
+  {
+    "file": "micro_31027.png",
+    "pixels_corrected": 17,
+    "width": 6529,
+    "height": 8265,
+    "verified": true
+  },
+  {
+    "file": "micro_31028.png",
+    "pixels_corrected": 14101,
+    "width": 10784,
+    "height": 8216,
+    "verified": true
+  },
+  {
+    "file": "micro_31030.png",
+    "pixels_corrected": 24392,
+    "width": 11510,
+    "height": 8088,
+    "verified": true
+  },
+  {
+    "file": "micro_31031.png",
+    "pixels_corrected": 216,
+    "width": 5245,
+    "height": 7843,
+    "verified": true
+  },
+  {
+    "file": "micro_31032.png",
+    "pixels_corrected": 52980,
+    "width": 7647,
+    "height": 6422,
+    "verified": true
+  },
+  {
+    "file": "micro_31034.png",
+    "pixels_corrected": 6909,
+    "width": 9500,
+    "height": 8157,
+    "verified": true
+  },
+  {
+    "file": "micro_31035.png",
+    "pixels_corrected": 68475,
+    "width": 10382,
+    "height": 8029,
+    "verified": true
+  },
+  {
+    "file": "micro_31036.png",
+    "pixels_corrected": 15267,
+    "width": 8716,
+    "height": 8225,
+    "verified": true
+  },
+  {
+    "file": "micro_31037.png",
+    "pixels_corrected": 6920,
+    "width": 9696,
+    "height": 7951,
+    "verified": true
+  },
+  {
+    "file": "micro_31038.png",
+    "pixels_corrected": 1308,
+    "width": 12725,
+    "height": 7941,
+    "verified": true
+  },
+  {
+    "file": "micro_31040.png",
+    "pixels_corrected": 1,
+    "width": 6059,
+    "height": 8147,
+    "verified": true
+  },
+  {
+    "file": "micro_31042.png",
+    "pixels_corrected": 12887,
+    "width": 9176,
+    "height": 8265,
+    "verified": true
+  },
+  {
+    "file": "micro_31044.png",
+    "pixels_corrected": 1,
+    "width": 11833,
+    "height": 8235,
+    "verified": true
+  },
+  {
+    "file": "micro_31045.png",
+    "pixels_corrected": 94,
+    "width": 8647,
+    "height": 8275,
+    "verified": true
+  },
+  {
+    "file": "micro_31046.png",
+    "pixels_corrected": 1258,
+    "width": 12069,
+    "height": 8216,
+    "verified": true
+  },
+  {
+    "file": "micro_31047.png",
+    "pixels_corrected": 114615,
+    "width": 8765,
+    "height": 8127,
+    "verified": true
+  },
+  {
+    "file": "micro_31048.png",
+    "pixels_corrected": 1496,
+    "width": 11078,
+    "height": 8304,
+    "verified": true
+  },
+  {
+    "file": "micro_31050.png",
+    "pixels_corrected": 4,
+    "width": 6529,
+    "height": 8235,
+    "verified": true
+  },
+  {
+    "file": "micro_31051.png",
+    "pixels_corrected": 2193,
+    "width": 8050,
+    "height": 8277,
+    "verified": true
+  },
+  {
+    "file": "micro_31052.png",
+    "pixels_corrected": 232,
+    "width": 7147,
+    "height": 8137,
+    "verified": true
+  },
+  {
+    "file": "micro_31053.png",
+    "pixels_corrected": 337,
+    "width": 9892,
+    "height": 8059,
+    "verified": true
+  },
+  {
+    "file": "micro_31055.png",
+    "pixels_corrected": 542,
+    "width": 8186,
+    "height": 7941,
+    "verified": true
+  },
+  {
+    "file": "micro_31057.png",
+    "pixels_corrected": 1203,
+    "width": 9686,
+    "height": 8245,
+    "verified": true
+  },
+  {
+    "file": "micro_31058.png",
+    "pixels_corrected": 169,
+    "width": 7127,
+    "height": 8284,
+    "verified": true
+  },
+  {
+    "file": "micro_31059.png",
+    "pixels_corrected": 302,
+    "width": 8922,
+    "height": 7971,
+    "verified": true
+  },
+  {
+    "file": "micro_31060.png",
+    "pixels_corrected": 12106,
+    "width": 11686,
+    "height": 8196,
+    "verified": true
+  },
+  {
+    "file": "micro_31061.png",
+    "pixels_corrected": 12158,
+    "width": 13843,
+    "height": 8118,
+    "verified": true
+  },
+  {
+    "file": "micro_31062.png",
+    "pixels_corrected": 1171,
+    "width": 7578,
+    "height": 7725,
+    "verified": true
+  },
+  {
+    "file": "micro_31065.png",
+    "pixels_corrected": 4896,
+    "width": 8176,
+    "height": 8265,
+    "verified": true
+  },
+  {
+    "file": "micro_31066.png",
+    "pixels_corrected": 4665,
+    "width": 13098,
+    "height": 8176,
+    "verified": true
+  },
+  {
+    "file": "micro_31067.png",
+    "pixels_corrected": 12,
+    "width": 6232,
+    "height": 6716,
+    "verified": true
+  },
+  {
+    "file": "micro_31068.png",
+    "pixels_corrected": 22574,
+    "width": 9263,
+    "height": 6568,
+    "verified": true
+  },
+  {
+    "file": "micro_31071.png",
+    "pixels_corrected": 4,
+    "width": 14363,
+    "height": 7500,
+    "verified": true
+  },
+  {
+    "file": "micro_31072.png",
+    "pixels_corrected": 4,
+    "width": 13794,
+    "height": 8059,
+    "verified": true
+  },
+  {
+    "file": "micro_31073.png",
+    "pixels_corrected": 537,
+    "width": 11049,
+    "height": 8255,
+    "verified": true
+  },
+  {
+    "file": "micro_31074.png",
+    "pixels_corrected": 1007,
+    "width": 7863,
+    "height": 8186,
+    "verified": true
+  },
+  {
+    "file": "micro_31075.png",
+    "pixels_corrected": 461,
+    "width": 11510,
+    "height": 8255,
+    "verified": true
+  },
+  {
+    "file": "micro_31076.png",
+    "pixels_corrected": 1101,
+    "width": 10480,
+    "height": 8088,
+    "verified": true
+  },
+  {
+    "file": "micro_31077.png",
+    "pixels_corrected": 2484,
+    "width": 7039,
+    "height": 8284,
+    "verified": true
+  },
+  {
+    "file": "micro_31078.png",
+    "pixels_corrected": 86133,
+    "width": 14029,
+    "height": 6755,
+    "verified": true
+  },
+  {
+    "file": "micro_31079.png",
+    "pixels_corrected": 7269,
+    "width": 13500,
+    "height": 7098,
+    "verified": true
+  },
+  {
+    "file": "micro_31082.png",
+    "pixels_corrected": 136,
+    "width": 6598,
+    "height": 8304,
+    "verified": true
+  },
+  {
+    "file": "micro_31083.png",
+    "pixels_corrected": 109,
+    "width": 10851,
+    "height": 8198,
+    "verified": true
+  },
+  {
+    "file": "micro_31084.png",
+    "pixels_corrected": 1103,
+    "width": 8000,
+    "height": 7814,
+    "verified": true
+  },
+  {
+    "file": "micro_31085.png",
+    "pixels_corrected": 415,
+    "width": 10284,
+    "height": 8098,
+    "verified": true
+  },
+  {
+    "file": "micro_31086.png",
+    "pixels_corrected": 75,
+    "width": 7353,
+    "height": 8176,
+    "verified": true
+  },
+  {
+    "file": "micro_31087.png",
+    "pixels_corrected": 69244,
+    "width": 11333,
+    "height": 8255,
+    "verified": true
+  },
+  {
+    "file": "micro_31088.png",
+    "pixels_corrected": 213941,
+    "width": 9765,
+    "height": 8167,
+    "verified": true
+  },
+  {
+    "file": "micro_31089.png",
+    "pixels_corrected": 2,
+    "width": 10598,
+    "height": 8284,
+    "verified": true
+  },
+  {
+    "file": "micro_31090.png",
+    "pixels_corrected": 3561,
+    "width": 10392,
+    "height": 8186,
+    "verified": true
+  },
+  {
+    "file": "micro_31091.png",
+    "pixels_corrected": 645,
+    "width": 11206,
+    "height": 8245,
+    "verified": true
+  },
+  {
+    "file": "micro_31092.png",
+    "pixels_corrected": 278,
+    "width": 10245,
+    "height": 8206,
+    "verified": true
+  },
+  {
+    "file": "micro_31093.png",
+    "pixels_corrected": 2695,
+    "width": 11451,
+    "height": 8392,
+    "verified": true
+  },
+  {
+    "file": "micro_31095.png",
+    "pixels_corrected": 669,
+    "width": 6225,
+    "height": 7725,
+    "verified": true
+  },
+  {
+    "file": "micro_31096.png",
+    "pixels_corrected": 1,
+    "width": 10569,
+    "height": 8225,
+    "verified": true
+  },
+  {
+    "file": "micro_31097.png",
+    "pixels_corrected": 3407,
+    "width": 9422,
+    "height": 8225,
+    "verified": true
+  },
+  {
+    "file": "micro_31098.png",
+    "pixels_corrected": 394,
+    "width": 14029,
+    "height": 8255,
+    "verified": true
+  },
+  {
+    "file": "micro_31099.png",
+    "pixels_corrected": 20711,
+    "width": 7695,
+    "height": 6947,
+    "verified": true
+  },
+  {
+    "file": "micro_31100.png",
+    "pixels_corrected": 1136,
+    "width": 11693,
+    "height": 8119,
+    "verified": true
+  },
+  {
+    "file": "micro_31101.png",
+    "pixels_corrected": 1330,
+    "width": 10624,
+    "height": 8277,
+    "verified": true
+  },
+  {
+    "file": "micro_31102.png",
+    "pixels_corrected": 2306,
+    "width": 7373,
+    "height": 8059,
+    "verified": true
+  }
+]

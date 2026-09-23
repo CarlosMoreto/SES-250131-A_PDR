@@ -1,0 +1,802 @@
+[
+  {
+    "file": "macro_1302.png",
+    "width": 6918,
+    "height": 5806,
+    "background_pixels_removed": 19439008,
+    "rgb_unchanged": true,
+    "seconds": 4.4
+  },
+  {
+    "file": "macro_1303.png",
+    "width": 3897,
+    "height": 4088,
+    "background_pixels_removed": 9506690,
+    "rgb_unchanged": true,
+    "seconds": 1.9
+  },
+  {
+    "file": "macro_3101.png",
+    "width": 3941,
+    "height": 4088,
+    "background_pixels_removed": 7532584,
+    "rgb_unchanged": true,
+    "seconds": 1.8
+  },
+  {
+    "file": "macro_3102.png",
+    "width": 5363,
+    "height": 4152,
+    "background_pixels_removed": 10648273,
+    "rgb_unchanged": true,
+    "seconds": 2.5
+  },
+  {
+    "file": "macro_3103.png",
+    "width": 4034,
+    "height": 3706,
+    "background_pixels_removed": 8215215,
+    "rgb_unchanged": true,
+    "seconds": 1.8
+  },
+  {
+    "file": "macro_3104.png",
+    "width": 3608,
+    "height": 4240,
+    "background_pixels_removed": 10576413,
+    "rgb_unchanged": true,
+    "seconds": 1.8
+  },
+  {
+    "file": "macro_3107.png",
+    "width": 8338,
+    "height": 5881,
+    "background_pixels_removed": 31155963,
+    "rgb_unchanged": true,
+    "seconds": 5.8
+  },
+  {
+    "file": "macro_3108.png",
+    "width": 6883,
+    "height": 5710,
+    "background_pixels_removed": 17916617,
+    "rgb_unchanged": true,
+    "seconds": 4.3
+  },
+  {
+    "file": "macro_3109.png",
+    "width": 2910,
+    "height": 5710,
+    "background_pixels_removed": 8027256,
+    "rgb_unchanged": true,
+    "seconds": 1.8
+  },
+  {
+    "file": "macro_3110.png",
+    "width": 7487,
+    "height": 5717,
+    "background_pixels_removed": 26201210,
+    "rgb_unchanged": true,
+    "seconds": 4.8
+  },
+  {
+    "file": "macro_3111.png",
+    "width": 5030,
+    "height": 5792,
+    "background_pixels_removed": 14179840,
+    "rgb_unchanged": true,
+    "seconds": 3.1
+  },
+  {
+    "file": "macro_3112.png",
+    "width": 9937,
+    "height": 3232,
+    "background_pixels_removed": 19991710,
+    "rgb_unchanged": true,
+    "seconds": 3.6
+  },
+  {
+    "file": "macro_3113.png",
+    "width": 9361,
+    "height": 4996,
+    "background_pixels_removed": 27004598,
+    "rgb_unchanged": true,
+    "seconds": 5.1
+  },
+  {
+    "file": "macro_3114.png",
+    "width": 5998,
+    "height": 5236,
+    "background_pixels_removed": 17803263,
+    "rgb_unchanged": true,
+    "seconds": 3.5
+  },
+  {
+    "file": "macro_3115.png",
+    "width": 5417,
+    "height": 4078,
+    "background_pixels_removed": 10471895,
+    "rgb_unchanged": true,
+    "seconds": 2.5
+  },
+  {
+    "file": "macro_3116.png",
+    "width": 5065,
+    "height": 5737,
+    "background_pixels_removed": 12038084,
+    "rgb_unchanged": true,
+    "seconds": 3.2
+  },
+  {
+    "file": "micro_31002.png",
+    "width": 14353,
+    "height": 7990,
+    "background_pixels_removed": 56686337,
+    "rgb_unchanged": true,
+    "seconds": 11.5
+  },
+  {
+    "file": "micro_31003.png",
+    "width": 9225,
+    "height": 8314,
+    "background_pixels_removed": 46747472,
+    "rgb_unchanged": true,
+    "seconds": 8.1
+  },
+  {
+    "file": "micro_31004.png",
+    "width": 10608,
+    "height": 8225,
+    "background_pixels_removed": 48607093,
+    "rgb_unchanged": true,
+    "seconds": 13.6
+  },
+  {
+    "file": "micro_31006.png",
+    "width": 9235,
+    "height": 8225,
+    "background_pixels_removed": 36024284,
+    "rgb_unchanged": true,
+    "seconds": 11.5
+  },
+  {
+    "file": "micro_31007.png",
+    "width": 9588,
+    "height": 8020,
+    "background_pixels_removed": 43501960,
+    "rgb_unchanged": true,
+    "seconds": 8.8
+  },
+  {
+    "file": "micro_31008.png",
+    "width": 9804,
+    "height": 8245,
+    "background_pixels_removed": 38436888,
+    "rgb_unchanged": true,
+    "seconds": 8.2
+  },
+  {
+    "file": "micro_31009.png",
+    "width": 9980,
+    "height": 8118,
+    "background_pixels_removed": 49989440,
+    "rgb_unchanged": true,
+    "seconds": 9.3
+  },
+  {
+    "file": "micro_31010.png",
+    "width": 7892,
+    "height": 8225,
+    "background_pixels_removed": 32621514,
+    "rgb_unchanged": true,
+    "seconds": 7.1
+  },
+  {
+    "file": "micro_31011.png",
+    "width": 8373,
+    "height": 8167,
+    "background_pixels_removed": 37323698,
+    "rgb_unchanged": true,
+    "seconds": 7.0
+  },
+  {
+    "file": "micro_31012.png",
+    "width": 7108,
+    "height": 8255,
+    "background_pixels_removed": 21385082,
+    "rgb_unchanged": true,
+    "seconds": 5.5
+  },
+  {
+    "file": "micro_31013.png",
+    "width": 8990,
+    "height": 8255,
+    "background_pixels_removed": 40766425,
+    "rgb_unchanged": true,
+    "seconds": 10.0
+  },
+  {
+    "file": "micro_31015.png",
+    "width": 8157,
+    "height": 8108,
+    "background_pixels_removed": 34303811,
+    "rgb_unchanged": true,
+    "seconds": 8.8
+  },
+  {
+    "file": "micro_31016.png",
+    "width": 5039,
+    "height": 8333,
+    "background_pixels_removed": 25518611,
+    "rgb_unchanged": true,
+    "seconds": 5.1
+  },
+  {
+    "file": "micro_31017.png",
+    "width": 4863,
+    "height": 7126,
+    "background_pixels_removed": 19781120,
+    "rgb_unchanged": true,
+    "seconds": 4.1
+  },
+  {
+    "file": "micro_31018.png",
+    "width": 7608,
+    "height": 7990,
+    "background_pixels_removed": 37611392,
+    "rgb_unchanged": true,
+    "seconds": 6.8
+  },
+  {
+    "file": "micro_31019.png",
+    "width": 8069,
+    "height": 8098,
+    "background_pixels_removed": 34955928,
+    "rgb_unchanged": true,
+    "seconds": 7.2
+  },
+  {
+    "file": "micro_31020.png",
+    "width": 6598,
+    "height": 8304,
+    "background_pixels_removed": 29514123,
+    "rgb_unchanged": true,
+    "seconds": 5.9
+  },
+  {
+    "file": "micro_31021.png",
+    "width": 7039,
+    "height": 8216,
+    "background_pixels_removed": 32035383,
+    "rgb_unchanged": true,
+    "seconds": 6.3
+  },
+  {
+    "file": "micro_31022.png",
+    "width": 13696,
+    "height": 8206,
+    "background_pixels_removed": 47749925,
+    "rgb_unchanged": true,
+    "seconds": 11.6
+  },
+  {
+    "file": "micro_31023.png",
+    "width": 9696,
+    "height": 8275,
+    "background_pixels_removed": 41108569,
+    "rgb_unchanged": true,
+    "seconds": 8.3
+  },
+  {
+    "file": "micro_31024.png",
+    "width": 12765,
+    "height": 8373,
+    "background_pixels_removed": 63997002,
+    "rgb_unchanged": true,
+    "seconds": 11.8
+  },
+  {
+    "file": "micro_31025.png",
+    "width": 8157,
+    "height": 8157,
+    "background_pixels_removed": 49585122,
+    "rgb_unchanged": true,
+    "seconds": 7.6
+  },
+  {
+    "file": "micro_31026.png",
+    "width": 7118,
+    "height": 8206,
+    "background_pixels_removed": 37286115,
+    "rgb_unchanged": true,
+    "seconds": 6.3
+  },
+  {
+    "file": "micro_31027.png",
+    "width": 6529,
+    "height": 8265,
+    "background_pixels_removed": 31664421,
+    "rgb_unchanged": true,
+    "seconds": 5.7
+  },
+  {
+    "file": "micro_31028.png",
+    "width": 10784,
+    "height": 8216,
+    "background_pixels_removed": 41989512,
+    "rgb_unchanged": true,
+    "seconds": 8.9
+  },
+  {
+    "file": "micro_31030.png",
+    "width": 11510,
+    "height": 8088,
+    "background_pixels_removed": 59196261,
+    "rgb_unchanged": true,
+    "seconds": 9.9
+  },
+  {
+    "file": "micro_31031.png",
+    "width": 5245,
+    "height": 7843,
+    "background_pixels_removed": 24962181,
+    "rgb_unchanged": true,
+    "seconds": 4.4
+  },
+  {
+    "file": "micro_31032.png",
+    "width": 7647,
+    "height": 6422,
+    "background_pixels_removed": 23945118,
+    "rgb_unchanged": true,
+    "seconds": 5.0
+  },
+  {
+    "file": "micro_31034.png",
+    "width": 9500,
+    "height": 8157,
+    "background_pixels_removed": 38481311,
+    "rgb_unchanged": true,
+    "seconds": 7.9
+  },
+  {
+    "file": "micro_31035.png",
+    "width": 10382,
+    "height": 8029,
+    "background_pixels_removed": 40580972,
+    "rgb_unchanged": true,
+    "seconds": 8.5
+  },
+  {
+    "file": "micro_31036.png",
+    "width": 8716,
+    "height": 8225,
+    "background_pixels_removed": 39028027,
+    "rgb_unchanged": true,
+    "seconds": 7.6
+  },
+  {
+    "file": "micro_31037.png",
+    "width": 9696,
+    "height": 7951,
+    "background_pixels_removed": 32989859,
+    "rgb_unchanged": true,
+    "seconds": 7.8
+  },
+  {
+    "file": "micro_31038.png",
+    "width": 12725,
+    "height": 7941,
+    "background_pixels_removed": 38300510,
+    "rgb_unchanged": true,
+    "seconds": 11.7
+  },
+  {
+    "file": "micro_31040.png",
+    "width": 6059,
+    "height": 8147,
+    "background_pixels_removed": 25227615,
+    "rgb_unchanged": true,
+    "seconds": 6.3
+  },
+  {
+    "file": "micro_31042.png",
+    "width": 9176,
+    "height": 8265,
+    "background_pixels_removed": 39822165,
+    "rgb_unchanged": true,
+    "seconds": 10.0
+  },
+  {
+    "file": "micro_31044.png",
+    "width": 11833,
+    "height": 8235,
+    "background_pixels_removed": 35348124,
+    "rgb_unchanged": true,
+    "seconds": 10.8
+  },
+  {
+    "file": "micro_31045.png",
+    "width": 8647,
+    "height": 8275,
+    "background_pixels_removed": 35151180,
+    "rgb_unchanged": true,
+    "seconds": 7.3
+  },
+  {
+    "file": "micro_31046.png",
+    "width": 12069,
+    "height": 8216,
+    "background_pixels_removed": 50121082,
+    "rgb_unchanged": true,
+    "seconds": 9.9
+  },
+  {
+    "file": "micro_31047.png",
+    "width": 8765,
+    "height": 8127,
+    "background_pixels_removed": 47523606,
+    "rgb_unchanged": true,
+    "seconds": 7.9
+  },
+  {
+    "file": "micro_31048.png",
+    "width": 11078,
+    "height": 8304,
+    "background_pixels_removed": 44677191,
+    "rgb_unchanged": true,
+    "seconds": 9.5
+  },
+  {
+    "file": "micro_31050.png",
+    "width": 6529,
+    "height": 8235,
+    "background_pixels_removed": 29454027,
+    "rgb_unchanged": true,
+    "seconds": 5.5
+  },
+  {
+    "file": "micro_31051.png",
+    "width": 8050,
+    "height": 8277,
+    "background_pixels_removed": 37375090,
+    "rgb_unchanged": true,
+    "seconds": 8.2
+  },
+  {
+    "file": "micro_31052.png",
+    "width": 7147,
+    "height": 8137,
+    "background_pixels_removed": 25871050,
+    "rgb_unchanged": true,
+    "seconds": 6.9
+  },
+  {
+    "file": "micro_31053.png",
+    "width": 9892,
+    "height": 8059,
+    "background_pixels_removed": 41300488,
+    "rgb_unchanged": true,
+    "seconds": 8.2
+  },
+  {
+    "file": "micro_31055.png",
+    "width": 8186,
+    "height": 7941,
+    "background_pixels_removed": 33104068,
+    "rgb_unchanged": true,
+    "seconds": 6.6
+  },
+  {
+    "file": "micro_31057.png",
+    "width": 9686,
+    "height": 8245,
+    "background_pixels_removed": 50138822,
+    "rgb_unchanged": true,
+    "seconds": 8.6
+  },
+  {
+    "file": "micro_31058.png",
+    "width": 7127,
+    "height": 8284,
+    "background_pixels_removed": 31577596,
+    "rgb_unchanged": true,
+    "seconds": 6.0
+  },
+  {
+    "file": "micro_31059.png",
+    "width": 8922,
+    "height": 7971,
+    "background_pixels_removed": 40656394,
+    "rgb_unchanged": true,
+    "seconds": 7.5
+  },
+  {
+    "file": "micro_31060.png",
+    "width": 11686,
+    "height": 8196,
+    "background_pixels_removed": 49158512,
+    "rgb_unchanged": true,
+    "seconds": 10.0
+  },
+  {
+    "file": "micro_31061.png",
+    "width": 13843,
+    "height": 8118,
+    "background_pixels_removed": 63501959,
+    "rgb_unchanged": true,
+    "seconds": 11.7
+  },
+  {
+    "file": "micro_31062.png",
+    "width": 7578,
+    "height": 7725,
+    "background_pixels_removed": 29301695,
+    "rgb_unchanged": true,
+    "seconds": 5.9
+  },
+  {
+    "file": "micro_31065.png",
+    "width": 8176,
+    "height": 8265,
+    "background_pixels_removed": 35229768,
+    "rgb_unchanged": true,
+    "seconds": 6.8
+  },
+  {
+    "file": "micro_31066.png",
+    "width": 13098,
+    "height": 8176,
+    "background_pixels_removed": 48769585,
+    "rgb_unchanged": true,
+    "seconds": 10.4
+  },
+  {
+    "file": "micro_31067.png",
+    "width": 6232,
+    "height": 6716,
+    "background_pixels_removed": 21704180,
+    "rgb_unchanged": true,
+    "seconds": 4.2
+  },
+  {
+    "file": "micro_31068.png",
+    "width": 9263,
+    "height": 6568,
+    "background_pixels_removed": 31724009,
+    "rgb_unchanged": true,
+    "seconds": 6.3
+  },
+  {
+    "file": "micro_31071.png",
+    "width": 14363,
+    "height": 7500,
+    "background_pixels_removed": 71129657,
+    "rgb_unchanged": true,
+    "seconds": 11.4
+  },
+  {
+    "file": "micro_31072.png",
+    "width": 13794,
+    "height": 8059,
+    "background_pixels_removed": 63895381,
+    "rgb_unchanged": true,
+    "seconds": 11.4
+  },
+  {
+    "file": "micro_31073.png",
+    "width": 11049,
+    "height": 8255,
+    "background_pixels_removed": 44210951,
+    "rgb_unchanged": true,
+    "seconds": 9.0
+  },
+  {
+    "file": "micro_31074.png",
+    "width": 7863,
+    "height": 8186,
+    "background_pixels_removed": 33064049,
+    "rgb_unchanged": true,
+    "seconds": 6.6
+  },
+  {
+    "file": "micro_31075.png",
+    "width": 11510,
+    "height": 8255,
+    "background_pixels_removed": 35010273,
+    "rgb_unchanged": true,
+    "seconds": 9.1
+  },
+  {
+    "file": "micro_31076.png",
+    "width": 10480,
+    "height": 8088,
+    "background_pixels_removed": 31776023,
+    "rgb_unchanged": true,
+    "seconds": 8.1
+  },
+  {
+    "file": "micro_31077.png",
+    "width": 7039,
+    "height": 8284,
+    "background_pixels_removed": 27023288,
+    "rgb_unchanged": true,
+    "seconds": 9.7
+  },
+  {
+    "file": "micro_31078.png",
+    "width": 14029,
+    "height": 6755,
+    "background_pixels_removed": 51273850,
+    "rgb_unchanged": true,
+    "seconds": 17.4
+  },
+  {
+    "file": "micro_31079.png",
+    "width": 13500,
+    "height": 7098,
+    "background_pixels_removed": 40526314,
+    "rgb_unchanged": true,
+    "seconds": 17.1
+  },
+  {
+    "file": "micro_31082.png",
+    "width": 6598,
+    "height": 8304,
+    "background_pixels_removed": 28983876,
+    "rgb_unchanged": true,
+    "seconds": 10.4
+  },
+  {
+    "file": "micro_31083.png",
+    "width": 10851,
+    "height": 8198,
+    "background_pixels_removed": 46885241,
+    "rgb_unchanged": true,
+    "seconds": 14.3
+  },
+  {
+    "file": "micro_31084.png",
+    "width": 8000,
+    "height": 7814,
+    "background_pixels_removed": 37677838,
+    "rgb_unchanged": true,
+    "seconds": 10.4
+  },
+  {
+    "file": "micro_31085.png",
+    "width": 10284,
+    "height": 8098,
+    "background_pixels_removed": 38355583,
+    "rgb_unchanged": true,
+    "seconds": 8.7
+  },
+  {
+    "file": "micro_31086.png",
+    "width": 7353,
+    "height": 8176,
+    "background_pixels_removed": 29516522,
+    "rgb_unchanged": true,
+    "seconds": 6.2
+  },
+  {
+    "file": "micro_31087.png",
+    "width": 11333,
+    "height": 8255,
+    "background_pixels_removed": 52521264,
+    "rgb_unchanged": true,
+    "seconds": 11.1
+  },
+  {
+    "file": "micro_31088.png",
+    "width": 9765,
+    "height": 8167,
+    "background_pixels_removed": 40808713,
+    "rgb_unchanged": true,
+    "seconds": 9.1
+  },
+  {
+    "file": "micro_31089.png",
+    "width": 10598,
+    "height": 8284,
+    "background_pixels_removed": 41915699,
+    "rgb_unchanged": true,
+    "seconds": 9.4
+  },
+  {
+    "file": "micro_31090.png",
+    "width": 10392,
+    "height": 8186,
+    "background_pixels_removed": 43222118,
+    "rgb_unchanged": true,
+    "seconds": 9.1
+  },
+  {
+    "file": "micro_31091.png",
+    "width": 11206,
+    "height": 8245,
+    "background_pixels_removed": 46822669,
+    "rgb_unchanged": true,
+    "seconds": 9.4
+  },
+  {
+    "file": "micro_31092.png",
+    "width": 10245,
+    "height": 8206,
+    "background_pixels_removed": 41367126,
+    "rgb_unchanged": true,
+    "seconds": 8.5
+  },
+  {
+    "file": "micro_31093.png",
+    "width": 11451,
+    "height": 8392,
+    "background_pixels_removed": 57656523,
+    "rgb_unchanged": true,
+    "seconds": 10.4
+  },
+  {
+    "file": "micro_31095.png",
+    "width": 6225,
+    "height": 7725,
+    "background_pixels_removed": 29019759,
+    "rgb_unchanged": true,
+    "seconds": 5.3
+  },
+  {
+    "file": "micro_31096.png",
+    "width": 10569,
+    "height": 8225,
+    "background_pixels_removed": 53212240,
+    "rgb_unchanged": true,
+    "seconds": 9.4
+  },
+  {
+    "file": "micro_31097.png",
+    "width": 9422,
+    "height": 8225,
+    "background_pixels_removed": 38995267,
+    "rgb_unchanged": true,
+    "seconds": 8.3
+  },
+  {
+    "file": "micro_31098.png",
+    "width": 14029,
+    "height": 8255,
+    "background_pixels_removed": 47611293,
+    "rgb_unchanged": true,
+    "seconds": 11.5
+  },
+  {
+    "file": "micro_31099.png",
+    "width": 7695,
+    "height": 6947,
+    "background_pixels_removed": 31654496,
+    "rgb_unchanged": true,
+    "seconds": 5.7
+  },
+  {
+    "file": "micro_31100.png",
+    "width": 11693,
+    "height": 8119,
+    "background_pixels_removed": 48433567,
+    "rgb_unchanged": true,
+    "seconds": 9.7
+  },
+  {
+    "file": "micro_31101.png",
+    "width": 10624,
+    "height": 8277,
+    "background_pixels_removed": 58228770,
+    "rgb_unchanged": true,
+    "seconds": 9.5
+  },
+  {
+    "file": "micro_31102.png",
+    "width": 7373,
+    "height": 8059,
+    "background_pixels_removed": 29952671,
+    "rgb_unchanged": true,
+    "seconds": 6.0
+  }
+]
